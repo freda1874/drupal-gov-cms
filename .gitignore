@@ -1,0 +1,6 @@
+vendor
+web/core
+web/modules
+.env
+dump.sql
+web/sites/default/sql/dump.sql

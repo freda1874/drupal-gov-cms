@@ -1,0 +1,8 @@
+# Main theme library.
+global:
+  js:
+    js/my-olivero-sub-theme.js: {}
+  css:
+    theme:
+      css/custom.css: {}
+     
