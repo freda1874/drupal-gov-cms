@@ -16,10 +16,8 @@ cd drupal-gov-cms
 2. Setting Up Environment Variables
 Create a .env file in the project’s root directory to manage sensitive or environment-specific information. Add variables such as:
 
-DBH=db
-DB=drupal_govt_policy
-DBU=thisisadbuser
-DBP=new_password_here
+![image](https://github.com/user-attachments/assets/251f40e9-4e76-4908-966f-f447bbef0df2)
+
 
 ### 1. Setting Up Composer
 
@@ -30,7 +28,6 @@ Composer is used to manage dependencies for Drupal and its modules:
    composer install
    ```
 2. **Adding Modules and Themes**:
- ![image](https://github.com/user-attachments/assets/b0628be1-77f7-460a-a275-ffa3806d8a0e)
 
    - Install contributed modules like admin_toolbar:
        ```bash
@@ -45,7 +42,7 @@ Composer is used to manage dependencies for Drupal and its modules:
      ./vendor/bin/drush en modulename
      ```
 ![image](https://github.com/user-attachments/assets/23542621-84f2-41b6-9b73-d6c310663dbc)
-
+ ![image](https://github.com/user-attachments/assets/b0628be1-77f7-460a-a275-ffa3806d8a0e)
 
  
 ### 2. Setting Up Drush
