@@ -56,7 +56,7 @@ Drush is a command-line tool for Drupal management.
      ```
 
 2. **Using Drush Commands**:
-I use** wsl -d Ubuntu** in windows system
+I use **wsl -d Ubuntu**  in windows system, I find it pretty neat :)
 ![image](https://github.com/user-attachments/assets/dec9c82a-3313-4832-8bfa-a03c46502bdf)
 
    - Clear caches:
