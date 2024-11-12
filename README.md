@@ -2,16 +2,8 @@
 # Learning and Exploring Drupal with Composer, Drush, and Docker
 
 This project is an experimental setup designed to deepen familiarity with Drupal, focusing on core features, modules, theming, and deployment on Docker and Google Cloud Platform (GCP). 
-
-The main goals of this project include:
-- Exploring and enabling core Drupal features.
-- Installing and managing contributed modules and themes.
-- Configuring Composer and Drush for streamlined Drupal management.
-- Using Docker and Docker Compose to create a microservices architecture.
-- Deploying on Google Cloud Platform for a practical hosting setup.
-
+ 
 ## Prerequisites
-
 - **Docker** and **Docker Compose** installed locally.
 - **Google Cloud Platform** account (with Cloud Shell access).
 
@@ -109,6 +101,7 @@ Docker and Docker Compose allow us to break Drupal into separate containers (e.g
    - The `docker-compose.yml` file is configured to create separate containers for the Drupal app and MySQL database. Optionally, `phpmyadmin` can be removed to simplify the setup.
 
 ### 6. Deploying on Google Cloud Platform (GCP)
+![image](https://github.com/user-attachments/assets/dae70abd-d1ca-4ab9-ac44-04c4f3aaab13)
 
 1. **Clone the Project to Google Cloud Shell**:
    - Open Google Cloud Console and clone the project:
