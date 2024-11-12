@@ -30,6 +30,8 @@ Composer is used to manage dependencies for Drupal and its modules:
    composer install
    ```
 2. **Adding Modules and Themes**:
+ ![image](https://github.com/user-attachments/assets/b0628be1-77f7-460a-a275-ffa3806d8a0e)
+
    - Install contributed modules like admin_toolbar:
        ```bash
        composer require drupal/admin_toolbar
@@ -71,7 +73,7 @@ I use** wsl -d Ubuntu** in windows system
    - Generate a sub-theme:
       ```bash
     ./vendor/bin/drush generate
-   ```
+      ```
 ## Managing Changes and Updates
 
 1. **Pushing Updates to GitHub**:
